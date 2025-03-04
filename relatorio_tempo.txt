@@ -1,0 +1,8 @@
+Relatório de Tempo Gasto em Cada Aplicativo:
+script.py - window-monitoring - Visual Studio Code: 0h 0m 3s
+DeepSeek - Into the Unknown - Google Chrome: 0h 0m 5s
+TimeEntryService.java - project-manager - Visual Studio Code: 0h 0m 23s
+profile.component.html - project-angular-2 - Visual Studio Code: 0h 0m 7s
+Pesquisar: 0h 0m 2s
+pgadmin4: 0h 0m 1s
+pgAdmin 4: 0h 0m 11s
